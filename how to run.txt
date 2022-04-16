@@ -1,0 +1,4 @@
+Install required dependencies as given in the requirements.txt file. Navigate inside the covid19_prediction file where manage.py file is located and run command: python manage.py runserver to run the server.
+I have used myapp.py as a test with json data to send get request to the server.
+myapp.py file has a variable named URL which is the api end point. You can run the file with the django server running to test yourself too.
+Finally, don't forget to make all the input fields in your Flutter app 'required'.
